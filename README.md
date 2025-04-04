@@ -26,7 +26,7 @@ Sou desenvolvedor em busca de uma oportunidade para aplicar e expandir meus conh
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 Linguagens Mais Usadas
+## 📊 Estatísticas
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur2006r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
